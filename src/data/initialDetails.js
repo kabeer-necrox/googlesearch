@@ -34,6 +34,13 @@ const initialDetails = [
     email: "britishgovt@gmail.com",
     address: "London, India",
   },
+  {
+    id: 6,
+    imgPath: "/assets/img/5.png",
+    name: "kabeer Lestrade",
+    email: "kabeer@gmail.com",
+    address: "London, India",
+  },
 ];
 
 export default initialDetails;
